@@ -3,7 +3,7 @@
 # This workflow assumes you have already created the target Azure Functions app.
 # For instructions see https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-csharp?tabs=in-process
 #
-# To configure this workflow:
+# To configure this workflow :
 # 1. Set up the following secrets in your repository:
 #   - AZURE_FUNCTIONAPP_PUBLISH_PROFILEg
 # 2. Change env variables for your configuration.
