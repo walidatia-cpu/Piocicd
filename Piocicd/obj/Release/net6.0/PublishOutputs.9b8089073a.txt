@@ -1,0 +1,7 @@
+d:\ahmed.elnenny\Desktop\New folder\Piocicd\Piocicd\obj\Release\net6.0\PubTmp\Out\Piocicd.exe
+d:\ahmed.elnenny\Desktop\New folder\Piocicd\Piocicd\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+d:\ahmed.elnenny\Desktop\New folder\Piocicd\Piocicd\obj\Release\net6.0\PubTmp\Out\appsettings.json
+d:\ahmed.elnenny\Desktop\New folder\Piocicd\Piocicd\obj\Release\net6.0\PubTmp\Out\Piocicd.dll
+d:\ahmed.elnenny\Desktop\New folder\Piocicd\Piocicd\obj\Release\net6.0\PubTmp\Out\Piocicd.deps.json
+d:\ahmed.elnenny\Desktop\New folder\Piocicd\Piocicd\obj\Release\net6.0\PubTmp\Out\Piocicd.runtimeconfig.json
+d:\ahmed.elnenny\Desktop\New folder\Piocicd\Piocicd\obj\Release\net6.0\PubTmp\Out\Piocicd.pdb
