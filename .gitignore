@@ -4,3 +4,7 @@
 
 /.vs/Piocicd/FileContentIndex/b62fe313-af64-445d-af02-ab00db9fcca0.vsidx
 /.vs/Piocicd
+/Piocicd/obj/Debug/net6.0
+/Piocicd/bin/Debug/net6.0
+/Piocicd/.config
+/.vs/ProjectEvaluation

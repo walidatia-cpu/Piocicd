@@ -29,3 +29,33 @@ d:\ahmed.elnenny\Desktop\New folder\Piocicd\Piocicd\obj\Debug\net6.0\refint\Pioc
 d:\ahmed.elnenny\Desktop\New folder\Piocicd\Piocicd\obj\Debug\net6.0\Piocicd.pdb
 d:\ahmed.elnenny\Desktop\New folder\Piocicd\Piocicd\obj\Debug\net6.0\Piocicd.genruntimeconfig.cache
 d:\ahmed.elnenny\Desktop\New folder\Piocicd\Piocicd\obj\Debug\net6.0\ref\Piocicd.dll
+C:\Users\Walied.Attia\Desktop\New folder (2)\Piocicd\Piocicd\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Walied.Attia\Desktop\New folder (2)\Piocicd\Piocicd\bin\Debug\net6.0\appsettings.json
+C:\Users\Walied.Attia\Desktop\New folder (2)\Piocicd\Piocicd\bin\Debug\net6.0\Piocicd.staticwebassets.runtime.json
+C:\Users\Walied.Attia\Desktop\New folder (2)\Piocicd\Piocicd\bin\Debug\net6.0\Piocicd.exe
+C:\Users\Walied.Attia\Desktop\New folder (2)\Piocicd\Piocicd\bin\Debug\net6.0\Piocicd.deps.json
+C:\Users\Walied.Attia\Desktop\New folder (2)\Piocicd\Piocicd\bin\Debug\net6.0\Piocicd.runtimeconfig.json
+C:\Users\Walied.Attia\Desktop\New folder (2)\Piocicd\Piocicd\bin\Debug\net6.0\Piocicd.dll
+C:\Users\Walied.Attia\Desktop\New folder (2)\Piocicd\Piocicd\bin\Debug\net6.0\Piocicd.pdb
+C:\Users\Walied.Attia\Desktop\New folder (2)\Piocicd\Piocicd\obj\Debug\net6.0\Piocicd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walied.Attia\Desktop\New folder (2)\Piocicd\Piocicd\obj\Debug\net6.0\Piocicd.AssemblyInfoInputs.cache
+C:\Users\Walied.Attia\Desktop\New folder (2)\Piocicd\Piocicd\obj\Debug\net6.0\Piocicd.AssemblyInfo.cs
+C:\Users\Walied.Attia\Desktop\New folder (2)\Piocicd\Piocicd\obj\Debug\net6.0\Piocicd.csproj.CoreCompileInputs.cache
+C:\Users\Walied.Attia\Desktop\New folder (2)\Piocicd\Piocicd\obj\Debug\net6.0\Piocicd.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Walied.Attia\Desktop\New folder (2)\Piocicd\Piocicd\obj\Debug\net6.0\Piocicd.RazorAssemblyInfo.cache
+C:\Users\Walied.Attia\Desktop\New folder (2)\Piocicd\Piocicd\obj\Debug\net6.0\Piocicd.RazorAssemblyInfo.cs
+C:\Users\Walied.Attia\Desktop\New folder (2)\Piocicd\Piocicd\obj\Debug\net6.0\staticwebassets\msbuild.Piocicd.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Walied.Attia\Desktop\New folder (2)\Piocicd\Piocicd\obj\Debug\net6.0\staticwebassets\msbuild.build.Piocicd.props
+C:\Users\Walied.Attia\Desktop\New folder (2)\Piocicd\Piocicd\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Piocicd.props
+C:\Users\Walied.Attia\Desktop\New folder (2)\Piocicd\Piocicd\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Piocicd.props
+C:\Users\Walied.Attia\Desktop\New folder (2)\Piocicd\Piocicd\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Walied.Attia\Desktop\New folder (2)\Piocicd\Piocicd\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Walied.Attia\Desktop\New folder (2)\Piocicd\Piocicd\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Walied.Attia\Desktop\New folder (2)\Piocicd\Piocicd\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Walied.Attia\Desktop\New folder (2)\Piocicd\Piocicd\obj\Debug\net6.0\scopedcss\bundle\Piocicd.styles.css
+C:\Users\Walied.Attia\Desktop\New folder (2)\Piocicd\Piocicd\obj\Debug\net6.0\scopedcss\projectbundle\Piocicd.bundle.scp.css
+C:\Users\Walied.Attia\Desktop\New folder (2)\Piocicd\Piocicd\obj\Debug\net6.0\Piocicd.dll
+C:\Users\Walied.Attia\Desktop\New folder (2)\Piocicd\Piocicd\obj\Debug\net6.0\refint\Piocicd.dll
+C:\Users\Walied.Attia\Desktop\New folder (2)\Piocicd\Piocicd\obj\Debug\net6.0\Piocicd.pdb
+C:\Users\Walied.Attia\Desktop\New folder (2)\Piocicd\Piocicd\obj\Debug\net6.0\Piocicd.genruntimeconfig.cache
+C:\Users\Walied.Attia\Desktop\New folder (2)\Piocicd\Piocicd\obj\Debug\net6.0\ref\Piocicd.dll

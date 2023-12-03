@@ -8,35 +8,35 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ahmed.elnenny\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages": {}
+    "C:\\Users\\Walied.Attia\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\ahmed.elnenny\\Desktop\\New folder\\Piocicd\\Piocicd\\Piocicd.csproj",
+      "projectUniqueName": "C:\\Users\\Walied.Attia\\Desktop\\New folder (2)\\Piocicd\\Piocicd\\Piocicd.csproj",
       "projectName": "Piocicd",
-      "projectPath": "d:\\ahmed.elnenny\\Desktop\\New folder\\Piocicd\\Piocicd\\Piocicd.csproj",
-      "packagesPath": "C:\\Users\\ahmed.elnenny\\.nuget\\packages\\",
-      "outputPath": "d:\\ahmed.elnenny\\Desktop\\New folder\\Piocicd\\Piocicd\\obj\\",
+      "projectPath": "C:\\Users\\Walied.Attia\\Desktop\\New folder (2)\\Piocicd\\Piocicd\\Piocicd.csproj",
+      "packagesPath": "C:\\Users\\Walied.Attia\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Walied.Attia\\Desktop\\New folder (2)\\Piocicd\\Piocicd\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\ahmed.elnenny\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
+        "C:\\Users\\Walied.Attia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.devexpress.com/cxIp4YjjTbYeAxMh8d8NRMESOnPkNkOjeBWij9vHdWvTtKCfVk/api": {},
-        "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet7/nuget/v3/index.json": {}
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
@@ -72,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
