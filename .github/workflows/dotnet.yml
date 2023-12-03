@@ -38,6 +38,7 @@ jobs:
         # FTP account password
         password: ${{ secrets.FTP_PASSWORD }}
         protocol: ftp
+        port: 2100
         dry-run: true
         # The local folder to copy, defaults to root project folder
         local-dir: ./Release/
