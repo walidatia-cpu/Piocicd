@@ -39,7 +39,7 @@ jobs:
         password: ${{ secrets.FTP_PASSWORD }}
         protocol: ftp
         port: 21
-        dry-run: true
+        dry-run: false
         # The local folder to copy, defaults to root project folder
         local-dir: ./Release/
         server-dir: /
