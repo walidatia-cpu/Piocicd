@@ -29,7 +29,7 @@ jobs:
     - name: Publish
       run: dotnet publish -c Release --output ./Release
     - name: FTP Deploy
-      uses: SamKirkland/FTP-Deploy-Action@4.3.3
+      uses: SamKirkland/FTP-Deploy-Action@4.3.0
       with:
         # Deployment destination server & path. Formatted as protocol://domain.com:port/full/destination/path/
         ftp-server: ${{ secrets.FTP_SERVER }}
@@ -37,5 +37,6 @@ jobs:
         ftp-username: ${{ secrets.FTP_USERNAME }}
         # FTP account password
         ftp-password: ${{ secrets.FTP_PASSWORD }}
+        protocol: ftps
         # The local folder to copy, defaults to root project folder
         local-dir: ./Release/
